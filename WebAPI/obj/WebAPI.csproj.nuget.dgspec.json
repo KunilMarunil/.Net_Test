@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Macam API\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "H:\\Macam API\\WebAPI\\.Net_Test\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "H:\\Macam API\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "H:\\Macam API\\WebAPI\\.Net_Test\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Macam API\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "H:\\Macam API\\WebAPI\\.Net_Test\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "H:\\Macam API\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "H:\\Macam API\\WebAPI\\.Net_Test\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\ramad\\.nuget\\packages\\",
-        "outputPath": "H:\\Macam API\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "H:\\Macam API\\WebAPI\\.Net_Test\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
